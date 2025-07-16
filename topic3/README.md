@@ -12,6 +12,18 @@
   
   Learn how to augment LLM generation with context from relational and vector databases
 
+  Additional reading: [**Text encoders**](https://nebius-academy.github.io/knowledge-base/text-encoders/)
+
+  Additional reading: [**Databases in AI development: a practical guide**](https://nebius-academy.github.io/knowledge-base/databases-a-practical-guide/)
+
 * **3.3. Advanced RAG components** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic3/3.3_advanced_rag_components.ipynb)
 
   Implement two types of two-stage RAG pipelines - one with a reranking step after retrieval and another compining vector and graph databases. Explore Hierarchical Navigable Small World - the nearest neighbour search algorithm used in most of today's vector databases.
+
+* **3.4. Problems with RAG and how to solve them**
+
+  [**Hallucinations in Retrieval Augmented LMs**](https://nebius-academy.github.io/knowledge-base/hallucinations-in-ralms/)
+
+  [**Advanced RAG issues**](https://nebius-academy.github.io/knowledge-base/advanced-rag-issues/)
+
+  **RAPTOR demo** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic3/3.4_RAPTOR_demo.ipynb)
